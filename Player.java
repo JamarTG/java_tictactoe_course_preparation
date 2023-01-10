@@ -29,5 +29,4 @@ public class Player {
   public char getPlayerLetter() {
     return this.playerLetter;
   }
-
 }
